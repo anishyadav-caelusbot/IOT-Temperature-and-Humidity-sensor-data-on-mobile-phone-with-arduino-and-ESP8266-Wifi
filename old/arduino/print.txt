@@ -1,0 +1,17 @@
+8051 BELL
+Channel ID: 334725
+Author: takyas
+Access: Private
+
+Write API Key
+
+Key
+V1MEHO8T1ZXEQZ7F
+
+Read API Keys
+Key
+WMVOL3KZIOOPQYL7
+
+192.168.225.131
+GET /apps/thingtweet/1/statuses/update?api_key=V1MEHO8T1ZXEQZ7&status=yourtweet 
+SEND OK,+IPD,0,1:1 and OK
